@@ -18,8 +18,8 @@ const Footer = () => {
           <div className="col-md-4">
             <h6 className="fw-bold mb-3">Offices</h6>
             <p className="mb-1">Dubai • Riyadh • Manama</p>
-            <p className="mb-1"><a className="footer-link" href="tel:+971585555555">+971 58 555 5555</a></p>
-            <p className="mb-0"><a className="footer-link" href="mailto:hello@korzionglobal.com">hello@korzionglobal.com</a></p>
+            <p className="mb-1"><a className="footer-link" href="tel:+79999251069">+79999251069</a></p>
+            <p className="mb-0"><a className="footer-link" href="mailto:georgiyraffl@gmail.com">georgiyraffl@gmail.com</a></p>
           </div>
         </div>
         <div className="text-center pt-3 muted">&copy; {new Date().getFullYear()} KORZION GLOBAL. All rights reserved.</div>
