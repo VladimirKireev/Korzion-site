@@ -359,8 +359,8 @@ export default function Page() {
                   <p>Dubai Airport Free Zone (DAFZA), Dubai, UAE</p>
                 </div>
                 <div>
-                  <p>Phone: +79999251069</p>
-                  <p>Email: georgiyraffl@gmail.com</p>
+                  <p>Phone: +79999251071</p>
+                  <p>Email: georgii@korzion.ae</p>
                 </div>
                 <div className="flex flex-wrap gap-2 pt-2">
                   <Pill>Amazon</Pill>
