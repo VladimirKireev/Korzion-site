@@ -43,7 +43,7 @@ export default function ContactPage() {
             <h4 className="fw-bold mb-3">Regional presence</h4>
             <p className="muted mb-3">Dubai • Riyadh • Manama</p>
             <div className="feature-card mb-3">
-              <p className="mb-1"><strong>Phone:</strong> <a className="footer-link" href="tel:+79999251071">+79999251071</a></p>
+              <p className="mb-1"><strong>Phone:</strong> <a className="footer-link" href="tel:+971507785218">+971507785218</a></p>
               <p className="mb-1"><strong>Email:</strong> <a className="footer-link" href="mailto:georgii@korzion.ae">georgii@korzion.ae</a></p>
               <p className="mb-0 muted">We usually reply within one business day.</p>
             </div>
